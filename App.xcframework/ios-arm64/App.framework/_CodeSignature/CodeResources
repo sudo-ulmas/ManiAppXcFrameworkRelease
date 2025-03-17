@@ -8,33 +8,41 @@
 		<data>
 		h5OB7aKzS5WR9SemvZAyN6FEkJs=
 		</data>
-		<key>flutter_assets/.env</key>
-		<data>
-		jBDo+JGDa0e7Wrf+XWkExhTBCBM=
-		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		MkgyfepUDGwAWFlpkRVRH/hiUic=
+		S82Fco9rm3/HJb175ov4Z+Vjrrw=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		vB8pVEnuO5sdVMgPNDQPke75vdI=
+		zwqCUx5b0jEbE2ufre8WAZ1AWQw=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		LlU32qAFDoZBxfHdnQntYP7Enmw=
+		pgkjyamkksxN+uGoqORLCrq5XLQ=
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		ow+VrdLeMPWWUmufHK+IL0J3ktE=
+		VCPboNS4MlshQnQJrD/C+5EbKb0=
+		</data>
+		<key>flutter_assets/NativeAssetsManifest.json</key>
+		<data>
+		re4p7E8rPLLsN+wzaPN/+AVpXTY=
+		</data>
+		<key>flutter_assets/assets/.env</key>
+		<data>
+		jBDo+JGDa0e7Wrf+XWkExhTBCBM=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
-		C2Cn7STaPQO8OTgbqGwX0L9fDqc=
+		1NAZ6xpGOedP1QBCOHS6zWwMVcA=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
 		nGyG9XhPBCnIdyJQ8yDR05GCbOk=
+		</data>
+		<key>flutter_assets/packages/mani_uikit/assets/icons/.DS_Store</key>
+		<data>
+		c0LfnSzaYux9PafYe+KZim3GKYs=
 		</data>
 		<key>flutter_assets/packages/mani_uikit/assets/icons/arrow_left.svg</key>
 		<data>
@@ -67,6 +75,10 @@
 		<key>flutter_assets/packages/mani_uikit/assets/icons/chevron_left.svg</key>
 		<data>
 		2sMFAZU9D3oSyZ5tmTAa5hwWw20=
+		</data>
+		<key>flutter_assets/packages/mani_uikit/assets/icons/chevron_left_blue.svg</key>
+		<data>
+		NYVoXmCb9RPzl72ZBQs/iK5mZc4=
 		</data>
 		<key>flutter_assets/packages/mani_uikit/assets/icons/chevron_right.svg</key>
 		<data>
@@ -120,6 +132,10 @@
 		<data>
 		Sg3peF40TIejwKsIYUSrYP/Tj/k=
 		</data>
+		<key>flutter_assets/packages/mani_uikit/assets/icons/logo_no_title.svg</key>
+		<data>
+		9GgeG+55vcWpigXZPaYW+hlmzGE=
+		</data>
 		<key>flutter_assets/packages/mani_uikit/assets/icons/notifications.svg</key>
 		<data>
 		8e8dul4aGThXu9rW8EefgcehvKQ=
@@ -144,6 +160,10 @@
 		<data>
 		hAgLLVJCwBQbfmSZwKmTnWaDfJE=
 		</data>
+		<key>flutter_assets/packages/mani_uikit/assets/images/.DS_Store</key>
+		<data>
+		tAodq6MqhSLUwLv8OeczEV3P6rw=
+		</data>
 		<key>flutter_assets/packages/mani_uikit/assets/images/first_screen.png</key>
 		<data>
 		VKGupclRMqQZcjmxgIqqG/4O+Eo=
@@ -163,6 +183,10 @@
 		<key>flutter_assets/packages/mani_uikit/assets/images/third_screen.png</key>
 		<data>
 		h6tMmhtjswG8XEEGVlMgpxnjDuU=
+		</data>
+		<key>flutter_assets/packages/mani_uikit/assets/temp/.DS_Store</key>
+		<data>
+		ZU01PREuQVN1tSt+hCc6WEqI1RA=
 		</data>
 		<key>flutter_assets/packages/mani_uikit/assets/temp/ad.png</key>
 		<data>
@@ -247,46 +271,53 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>flutter_assets/.env</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			l1uoclVM3svkUvOuwdXiVdi8ewsPN26IoGA8PHepnCs=
-			</data>
-		</dict>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U94gkN4t2mIs57/H53dp+zh4eci/R3XQCKtJMw2711w=
+			dZwqyaSvg5eNjbQ8VsiamPpeLEccXQYJtbN7oUC3pww=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7zO/o4Fzttl6SVa70j1JX1SUmm83o+UzOD6SBxWiGYo=
+			kRSrGx7TLthXrcneZr6kFsn8Rvdenay8DKl2DIj6O4M=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0oE49zpnouR9SIvhBU9LsvoKDU/TmKxYFk0rlubU4O8=
+			IFg8hbn6F/c/CYfBX+754XG+3w3/lOXqmReXD0GWnRE=
 			</data>
 		</dict>
 		<key>flutter_assets/NOTICES.Z</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jt8Zsgw81xvPgZUPRH1aFJaNfzm1PJkcPTkrgPaE7Tc=
+			mQvh5p28gXsRUPhLvpOReYdjcvvzqWB2dY7Hr6eh/T8=
+			</data>
+		</dict>
+		<key>flutter_assets/NativeAssetsManifest.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lUijHkoEgTXB2U+Rkyi/tirix7s8q5ZVfHlB2ql3dss=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/.env</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l1uoclVM3svkUvOuwdXiVdi8ewsPN26IoGA8PHepnCs=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7bJB9OLWK+OxUfFbCY4biDVDIXHtaWAqOEF9+r58FS8=
+			ztmeID1CaL2h5DlnlPdUSh1NsLbK0Za8m6N9TXs2474=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -350,6 +381,13 @@
 			<key>hash2</key>
 			<data>
 			q4r9fMSItAk5jL7iTk8uf3T/0zbag+Cssyx8+2LqKFE=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/mani_uikit/assets/icons/chevron_left_blue.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9kWuopWMTWP7/uBthUOu0rzGLLgyviboGo/VDbu+wzE=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/mani_uikit/assets/icons/chevron_right.svg</key>
@@ -441,6 +479,13 @@
 			<key>hash2</key>
 			<data>
 			5GEhEStZMa0zFQUt8bdo6ffQ2obLTS8DW2LSkl8sA/s=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/mani_uikit/assets/icons/logo_no_title.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ngzw/WYKzd/DOPU+gMHKbF10nugm+67bgD4WEdUhTXU=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/mani_uikit/assets/icons/notifications.svg</key>
