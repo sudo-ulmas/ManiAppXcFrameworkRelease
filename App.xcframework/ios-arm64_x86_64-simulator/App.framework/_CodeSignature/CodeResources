@@ -10,23 +10,35 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		ZiODi4tYsA1tQvhuZjaIL9JtT9Q=
+		OnvYIiyBx8AliJHA+Gwia/SgM/k=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		BOMZriJHCdLSg4i+c1trDNaVKzw=
+		5tB8491hGg+fYK6kJJ3k040rgho=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		pgkjyamkksxN+uGoqORLCrq5XLQ=
+		obgfjC2mimeewa4YtkTMdZfRMP4=
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		VCPboNS4MlshQnQJrD/C+5EbKb0=
+		ynPmMorUtxMqPZg9hmRiBCGS4ws=
 		</data>
 		<key>flutter_assets/NativeAssetsManifest.json</key>
 		<data>
 		re4p7E8rPLLsN+wzaPN/+AVpXTY=
+		</data>
+		<key>flutter_assets/assets/Manrope-Bold.ttf</key>
+		<data>
+		prY8gy0SM377MSP0eGP1RHLIG/U=
+		</data>
+		<key>flutter_assets/assets/Manrope-Medium.ttf</key>
+		<data>
+		1i4bJJj2XqW8IPxeNl0ZI5UntBk=
+		</data>
+		<key>flutter_assets/assets/Manrope-SemiBold.ttf</key>
+		<data>
+		5CPhEvSDKRawUwiTTBCqhP0Uxgc=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -271,28 +283,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nNisAzcoz2mZL+d5VWmouMgxrg4RmiwU1lk446FZ2fk=
+			V8s/13GbOQec8GcyczIWLYiiK/TaaJwQEiN3igoauYc=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RW56FcGQCmDILwz+sNhCmw3PMlk11+a6VQy7EJjARBo=
+			Ijlj5tXUMqApVG4n96YiYd4TLf5s6IB6FwKI8c0SHYc=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IFg8hbn6F/c/CYfBX+754XG+3w3/lOXqmReXD0GWnRE=
+			YbonwWct0OlfJSL/2KDxUVPi6Iu2Zx6JCpmTk3BVG1g=
 			</data>
 		</dict>
 		<key>flutter_assets/NOTICES.Z</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mQvh5p28gXsRUPhLvpOReYdjcvvzqWB2dY7Hr6eh/T8=
+			cGKrFayOmGr+dza4gxTCeZ14ZPl00QSJw4GD9WyFw9c=
 			</data>
 		</dict>
 		<key>flutter_assets/NativeAssetsManifest.json</key>
@@ -300,6 +312,27 @@
 			<key>hash2</key>
 			<data>
 			lUijHkoEgTXB2U+Rkyi/tirix7s8q5ZVfHlB2ql3dss=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/Manrope-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zmh8DIZ6TUPcaD0ZxuBlu4TAJ9PJ5N1R6C+1OQjU+Ek=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/Manrope-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Vi+12DbtcZVfJEKkLyaZq22IcleLygEtKQzf+BqoCKo=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/Manrope-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nLa98Awsa2TUvHcIeq34ggeld/MtrkEHReTVVYI1XTw=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
