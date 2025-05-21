@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		OnvYIiyBx8AliJHA+Gwia/SgM/k=
+		DK76iv7uk8WeK7cEh3eefgyqgJ4=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		5tB8491hGg+fYK6kJJ3k040rgho=
+		uLY7Aneqi7YA5QYMy8rLwyZK2ys=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		gg/BPNjVBQPB1Ii0Z7YrOnCvTlc=
+		YsJJFWTU/FF5v7/pr232GNq6ICc=
 		</data>
 		<key>flutter_assets/NativeAssetsManifest.json</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>flutter_assets/packages/mani_uikit/assets/icons/.DS_Store</key>
 		<data>
-		c0LfnSzaYux9PafYe+KZim3GKYs=
+		sxxgkxAf9/oK0BVzZAmyoSx5w0k=
 		</data>
 		<key>flutter_assets/packages/mani_uikit/assets/icons/arrow_left.svg</key>
 		<data>
@@ -136,13 +136,13 @@
 		<data>
 		+5JrLZTbQOFOr2jL5xYxuJWpZLU=
 		</data>
-		<key>flutter_assets/packages/mani_uikit/assets/icons/logo.svg</key>
-		<data>
-		Sg3peF40TIejwKsIYUSrYP/Tj/k=
-		</data>
 		<key>flutter_assets/packages/mani_uikit/assets/icons/logo_no_title.svg</key>
 		<data>
 		9GgeG+55vcWpigXZPaYW+hlmzGE=
+		</data>
+		<key>flutter_assets/packages/mani_uikit/assets/icons/logo_pully.svg</key>
+		<data>
+		igGtEaB00poSSipfTQzZRK7o6Do=
 		</data>
 		<key>flutter_assets/packages/mani_uikit/assets/icons/notifications.svg</key>
 		<data>
@@ -167,30 +167,6 @@
 		<key>flutter_assets/packages/mani_uikit/assets/icons/wallet.svg</key>
 		<data>
 		hAgLLVJCwBQbfmSZwKmTnWaDfJE=
-		</data>
-		<key>flutter_assets/packages/mani_uikit/assets/images/.DS_Store</key>
-		<data>
-		tAodq6MqhSLUwLv8OeczEV3P6rw=
-		</data>
-		<key>flutter_assets/packages/mani_uikit/assets/images/first_screen.png</key>
-		<data>
-		VKGupclRMqQZcjmxgIqqG/4O+Eo=
-		</data>
-		<key>flutter_assets/packages/mani_uikit/assets/images/forth_screen.png</key>
-		<data>
-		Xjjo6R+xPMmJFpFPFJRD/zaMX+w=
-		</data>
-		<key>flutter_assets/packages/mani_uikit/assets/images/second_screen.png</key>
-		<data>
-		8Zd22oI0+AEhf3HQYMUjLeasJ/Y=
-		</data>
-		<key>flutter_assets/packages/mani_uikit/assets/images/success.png</key>
-		<data>
-		nsSuqAyiUYFMkvEYrJvNnop4I+M=
-		</data>
-		<key>flutter_assets/packages/mani_uikit/assets/images/third_screen.png</key>
-		<data>
-		h6tMmhtjswG8XEEGVlMgpxnjDuU=
 		</data>
 		<key>flutter_assets/packages/mani_uikit/assets/temp/.DS_Store</key>
 		<data>
@@ -283,14 +259,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V8s/13GbOQec8GcyczIWLYiiK/TaaJwQEiN3igoauYc=
+			x/F6BEpRrG2qPVWHvkGWJIkDgUjmvZ8Mz/SvjSA3kfI=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ijlj5tXUMqApVG4n96YiYd4TLf5s6IB6FwKI8c0SHYc=
+			fS3LjkRxQdfLZpvHMhlnxTWVlYyqLw9MSYjpYw6YqIE=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -304,7 +280,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EY/0WIqUURjOR4iuDXAlxI0BXUn8Wa9Vx0I+AutRPt8=
+			LTIOLmeQd2QqwY3U0mCJrc/CyyGott83gBOgGZZjGJs=
 			</data>
 		</dict>
 		<key>flutter_assets/NativeAssetsManifest.json</key>
@@ -496,18 +472,18 @@
 			z5UthojZ/r4EZT/Wt/5dWfa2/tRc9afdxBNGDBd6h7M=
 			</data>
 		</dict>
-		<key>flutter_assets/packages/mani_uikit/assets/icons/logo.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5GEhEStZMa0zFQUt8bdo6ffQ2obLTS8DW2LSkl8sA/s=
-			</data>
-		</dict>
 		<key>flutter_assets/packages/mani_uikit/assets/icons/logo_no_title.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			Ngzw/WYKzd/DOPU+gMHKbF10nugm+67bgD4WEdUhTXU=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/mani_uikit/assets/icons/logo_pully.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dBOhXjANcuiaa9bUwToNc+x3Qhcw7V9FuZXS2DDxMi0=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/mani_uikit/assets/icons/notifications.svg</key>
@@ -550,41 +526,6 @@
 			<key>hash2</key>
 			<data>
 			NClVuhs/5UVOZgh8r4q1UydRX+GBcNqxW/2/m3MBCuU=
-			</data>
-		</dict>
-		<key>flutter_assets/packages/mani_uikit/assets/images/first_screen.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+9elhjwPon/O42Xg6snXsAZ+3kCSYYr1U9TLwQvyn+U=
-			</data>
-		</dict>
-		<key>flutter_assets/packages/mani_uikit/assets/images/forth_screen.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SeQ8SXJjIDC8Xn6lYklvZ4U/O8h/OK/OFyirMRt9i9A=
-			</data>
-		</dict>
-		<key>flutter_assets/packages/mani_uikit/assets/images/second_screen.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kcW3vrsL7xKewPl/VrLppv9yx6E8w9j5WKKPogMQdGA=
-			</data>
-		</dict>
-		<key>flutter_assets/packages/mani_uikit/assets/images/success.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JjDDOQhXMS8M91gkqhsCbF0AOR8IS0Yg4KjQY+oHDU8=
-			</data>
-		</dict>
-		<key>flutter_assets/packages/mani_uikit/assets/images/third_screen.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+NxSa5+Xg8w6z5ie+wBP1ufHr+PFRCxNYNX5zYmiTBk=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/mani_uikit/assets/temp/ad.png</key>
