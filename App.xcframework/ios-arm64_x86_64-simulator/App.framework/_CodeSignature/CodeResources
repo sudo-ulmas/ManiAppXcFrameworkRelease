@@ -10,15 +10,15 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		F0uoamZa6ivHxTV8RIQrYk6qBT8=
+		S6CeHasbflda/Etysro2MmWZCno=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		zDFS0td7zxD0ZbZ5VIz5uKZVVvw=
+		dXvlbVF0bcY/QCi3s33of2sbWys=
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		wY/Z6PLYXnNFwah7UUYV9JkQ1q4=
+		u+UtYFBTaZOYFWvickLUFmQoS4E=
 		</data>
 		<key>flutter_assets/NativeAssetsManifest.json</key>
 		<data>
@@ -35,6 +35,18 @@
 		<key>flutter_assets/assets/Manrope-SemiBold.ttf</key>
 		<data>
 		5CPhEvSDKRawUwiTTBCqhP0Uxgc=
+		</data>
+		<key>flutter_assets/assets/Roboto-Bold.ttf</key>
+		<data>
+		PkVfUXNUpFgHZI+9PXGturL06QU=
+		</data>
+		<key>flutter_assets/assets/Roboto-Medium.ttf</key>
+		<data>
+		+BYzOYGHdWo0e8bUOq16j8NWFxs=
+		</data>
+		<key>flutter_assets/assets/Roboto-SemiBold.ttf</key>
+		<data>
+		DmsquNGRmyeKdkrnqIR5bHX6nEk=
 		</data>
 		<key>flutter_assets/assets/SFPRODISPLAYBOLD.OTF</key>
 		<data>
@@ -148,6 +160,10 @@
 		<data>
 		igGtEaB00poSSipfTQzZRK7o6Do=
 		</data>
+		<key>flutter_assets/packages/mani_uikit/assets/icons/mkb.svg</key>
+		<data>
+		svH/+xo7OmpUu0ySGKbMlrvSYg8=
+		</data>
 		<key>flutter_assets/packages/mani_uikit/assets/icons/notifications.svg</key>
 		<data>
 		8e8dul4aGThXu9rW8EefgcehvKQ=
@@ -174,7 +190,7 @@
 		</data>
 		<key>flutter_assets/packages/mani_uikit/assets/temp/.DS_Store</key>
 		<data>
-		ZU01PREuQVN1tSt+hCc6WEqI1RA=
+		gkKS/9OqOose+RmealwOZWFsjTY=
 		</data>
 		<key>flutter_assets/packages/mani_uikit/assets/temp/arrow_top_right.svg</key>
 		<data>
@@ -255,21 +271,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NMqnmd0r5a68HqwxYwKpBhhL0GRJXaXwPPqEZAF5rRQ=
+			RnnIa1dO9/GI5vS4A71wOY8eFE8SivTHVLnoA1LG6Q8=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wbbWkNKCq6iNsrjiH200EZYJYqys9VW+RzkAS6fMzwE=
+			lY9DBcxyetlOOTzG2K5Fl2j3Ut3iIY+SPWP1oE/uuEo=
 			</data>
 		</dict>
 		<key>flutter_assets/NOTICES.Z</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hoyL0DlWRBuBuAl2o8OcO9RCipkV6N6xC5hdbwBEEds=
+			9VIYGkcDd77HkaufuXtuYbk2crT9NoanPxf4GCTXlYw=
 			</data>
 		</dict>
 		<key>flutter_assets/NativeAssetsManifest.json</key>
@@ -298,6 +314,27 @@
 			<key>hash2</key>
 			<data>
 			nLa98Awsa2TUvHcIeq34ggeld/MtrkEHReTVVYI1XTw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/Roboto-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Sq+MW2YaOGmYwucM8rh+JED1QE4Lj9gRZPBBP7NDXsY=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/Roboto-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eTQ9xkGi6NSKcDpGZ7cfyNxlZcyM5H38NPxSwSqtvzg=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/Roboto-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Mv4ghrDlTsqFpo63Tj2Juxan/+WQhdbcfQefWzwm1qs=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/SFPRODISPLAYBOLD.OTF</key>
@@ -487,6 +524,13 @@
 			<key>hash2</key>
 			<data>
 			dBOhXjANcuiaa9bUwToNc+x3Qhcw7V9FuZXS2DDxMi0=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/mani_uikit/assets/icons/mkb.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rF1I0rJNSk3qowqg1Se5RUlNIrNeINL1HGNHGl7z06o=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/mani_uikit/assets/icons/notifications.svg</key>
