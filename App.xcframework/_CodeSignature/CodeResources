@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/App.framework/App</key>
 		<data>
-		+T2cT+kuLN3TvY6/F9dWa1It6+4=
+		v+l1OMiePiWOsgaYePeKb0Ys6Q8=
 		</data>
 		<key>ios-arm64/App.framework/Info.plist</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>ios-arm64/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		iH1QIrxfIsF45lMJp5WlKsWHOXo=
+		LZ8bh2i5eCMC7//47NzL92r9h+4=
 		</data>
 		<key>ios-arm64/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
-		NkxoJpVWzaKKlnyxDRdDnS8FjfA=
+		TVFjW8Xc776QygWSkFi/m02/61o=
 		</data>
 		<key>ios-arm64/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		tWyT1FeF2aFEq3RY6+54XcFHv9c=
+		FOW/9XqJqAz4JPsJhLTqN5TQU8A=
 		</data>
 		<key>ios-arm64/App.framework/flutter_assets/NativeAssetsManifest.json</key>
 		<data>
@@ -256,10 +256,6 @@
 		<data>
 		0q0Glbh9SuLb3MgEtDpCFfNQVdU=
 		</data>
-		<key>ios-arm64/App.framework/flutter_assets/packages/material_ui/shaders/ink_sparkle.frag</key>
-		<data>
-		EGRz1/Lz0IU55sDsYLpgQGHcfzg=
-		</data>
 		<key>ios-arm64/App.framework/flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
 		EGRz1/Lz0IU55sDsYLpgQGHcfzg=
@@ -270,11 +266,11 @@
 		</data>
 		<key>ios-arm64/dSYMs/App.framework.dSYM/Contents/Resources/DWARF/App</key>
 		<data>
-		ZW8Bhy2tk+Ct6d92yW2c5BEIhu8=
+		YMKaxe3BdWnHqHyd3PinCWQN7Ic=
 		</data>
 		<key>ios-arm64_x86_64-simulator/App.framework/App</key>
 		<data>
-		WeHaVfmV0PdshNybs72/M7on1k0=
+		XGbzrjgvPs1fMhb2Vw6hoXYDbc8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/App.framework/Info.plist</key>
 		<data>
@@ -282,11 +278,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		iH1QIrxfIsF45lMJp5WlKsWHOXo=
+		LZ8bh2i5eCMC7//47NzL92r9h+4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
-		NkxoJpVWzaKKlnyxDRdDnS8FjfA=
+		TVFjW8Xc776QygWSkFi/m02/61o=
 		</data>
 		<key>ios-arm64_x86_64-simulator/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -294,7 +290,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		tWyT1FeF2aFEq3RY6+54XcFHv9c=
+		FOW/9XqJqAz4JPsJhLTqN5TQU8A=
 		</data>
 		<key>ios-arm64_x86_64-simulator/App.framework/flutter_assets/NativeAssetsManifest.json</key>
 		<data>
@@ -524,10 +520,6 @@
 		<data>
 		0q0Glbh9SuLb3MgEtDpCFfNQVdU=
 		</data>
-		<key>ios-arm64_x86_64-simulator/App.framework/flutter_assets/packages/material_ui/shaders/ink_sparkle.frag</key>
-		<data>
-		EGRz1/Lz0IU55sDsYLpgQGHcfzg=
-		</data>
 		<key>ios-arm64_x86_64-simulator/App.framework/flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
 		EGRz1/Lz0IU55sDsYLpgQGHcfzg=
@@ -543,7 +535,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tkPgDP9so+R0/tzoex2oS6l/D1N0aY3pM5FgOXr29yA=
+			J9wtdKKIkJ3s45O8QQfVDBZbgFyaxwVs5BgqJlTrRrM=
 			</data>
 		</dict>
 		<key>ios-arm64/App.framework/Info.plist</key>
@@ -557,14 +549,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BqN+dSodrAvR0jlWJZAKmiYwbbzWTK9/u9l8LPjY6F8=
+			5ehSYCiU8tToRGLk7pWwyBiL1BLrgbCJuD6Kko1qbYc=
 			</data>
 		</dict>
 		<key>ios-arm64/App.framework/flutter_assets/AssetManifest.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FyOtCSNucx92D6ZGfVa5g+kr+Z7Qb/ADW69I2h5TvPs=
+			XXWFqr/JQMpsPdvPZl3uhdYTknCv0jt+vfmaPg1uOIU=
 			</data>
 		</dict>
 		<key>ios-arm64/App.framework/flutter_assets/FontManifest.json</key>
@@ -578,7 +570,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YabfZQImeCxhz7gV99LULJt/2CD+BZAdpQ+iWFwH1+I=
+			rCm2wI/hGC50cR1BBar/r3Hm7Om7jA1dow1sJBr3phw=
 			</data>
 		</dict>
 		<key>ios-arm64/App.framework/flutter_assets/NativeAssetsManifest.json</key>
@@ -966,13 +958,6 @@
 			jTLMoVsLG97mvO1aUrM62hdXIo2XODK1Scphc0aM2Rw=
 			</data>
 		</dict>
-		<key>ios-arm64/App.framework/flutter_assets/packages/material_ui/shaders/ink_sparkle.frag</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ys5LpuNCVDcf/fuOBnCvzFMU9EUu317nCvzwefLtfqI=
-			</data>
-		</dict>
 		<key>ios-arm64/App.framework/flutter_assets/shaders/ink_sparkle.frag</key>
 		<dict>
 			<key>hash2</key>
@@ -991,14 +976,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U1srBOgunC6BYWjReBtukNIu0MLXDEwAyxynSYPQC0s=
+			HCUo4isgxFM67Ly2QOQhdZK5JgOeHbIb3nkxGQe1ce4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/App.framework/App</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wfOcaigJdHccuRi0Jr0r2w5HpfQloGq/S7OWJ9HR0NA=
+			jpyBktKvbfRqTOAFWZRznEgIzctW/V+3B3ZwX4qala8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/App.framework/Info.plist</key>
@@ -1012,14 +997,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BqN+dSodrAvR0jlWJZAKmiYwbbzWTK9/u9l8LPjY6F8=
+			5ehSYCiU8tToRGLk7pWwyBiL1BLrgbCJuD6Kko1qbYc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/App.framework/flutter_assets/AssetManifest.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FyOtCSNucx92D6ZGfVa5g+kr+Z7Qb/ADW69I2h5TvPs=
+			XXWFqr/JQMpsPdvPZl3uhdYTknCv0jt+vfmaPg1uOIU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/App.framework/flutter_assets/FontManifest.json</key>
@@ -1033,7 +1018,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YabfZQImeCxhz7gV99LULJt/2CD+BZAdpQ+iWFwH1+I=
+			rCm2wI/hGC50cR1BBar/r3Hm7Om7jA1dow1sJBr3phw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/App.framework/flutter_assets/NativeAssetsManifest.json</key>
@@ -1419,13 +1404,6 @@
 			<key>hash2</key>
 			<data>
 			jTLMoVsLG97mvO1aUrM62hdXIo2XODK1Scphc0aM2Rw=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/App.framework/flutter_assets/packages/material_ui/shaders/ink_sparkle.frag</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ys5LpuNCVDcf/fuOBnCvzFMU9EUu317nCvzwefLtfqI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/App.framework/flutter_assets/shaders/ink_sparkle.frag</key>
